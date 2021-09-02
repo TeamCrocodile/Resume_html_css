@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: rgb(189, 0, 132);
+    background-size: cover;
+    background-color: rgb(0, 0, 0);
+  }
+
+h2{
+    text-align: left;
+}
+
+.box1{
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 1000px;
+    padding: 60px;
+    color: rgb(25, 0, 134);
+    background: rgb(52, 198, 255);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(195, 0, 255, 0.966);
+    border-radius: 10px;
+  }
+
+  .ClgType
+  {
+      padding-left: 40px;
+      color: rgb(0, 0, 0);
+      padding-left: 55px;
+      list-style: circle;
+      font-weight: bolder;
+  }
+
+  ul{
+    color: rgb(25, 0, 134);
+   font-weight: bold;
+  }
+
+  li
+  {
+      padding-left: 55px;
+    color: rgb(0, 0, 0);
+    list-style: none;
+  }
+
+  .li1
+  {
+    font-weight: bold;
+
+  }
+
+  .li2
+  {
+    color: rgb(0, 0, 0);
+    list-style: none;
+    font-weight: normal; 
+  }
+
+  .date
+  {
+      padding-left: 450px;
+  }
+
+  .date2
+  {
+      padding-left: 50px;
+  }
+
+  .date3
+  {
+      padding-left: 620px;
+  }
+
+  .date4
+  {
+      padding-left: 628px;
+  }
+
+  .li3
+  {
+    color: rgb(0, 0, 0);
+    list-style: none;
+    font-weight: normal; 
+    list-style: circle;
+  }
